@@ -1,8 +1,9 @@
 body,
 html {
     width: 98%;
-    height: 98%;
+    height: 60%;
 	background: url(../img/background.jpg) no-repeat fixed center center;
+	background-size: cover;
 	}
 
 body,
