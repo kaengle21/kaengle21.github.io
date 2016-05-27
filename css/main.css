@@ -1,0 +1,21 @@
+body,
+html {
+    width: 98%;
+    height: 98%;
+	background: url(../img/background.jpg) no-repeat fixed center center;
+	}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+	color: white;
+	text-align: center;
+	padding-top:50px;
+}
+
